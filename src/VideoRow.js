@@ -3,7 +3,7 @@ import "./VideoRow.css";
 
 function VideoRow({views,description,timestamp,channel,title,image}) {
     return (
-        <div className="videorow">
+        <div className="videorows">
         <img src ={image} alt=""></img>
         <div className="videorow_text">
         <h3>{title}</h3>

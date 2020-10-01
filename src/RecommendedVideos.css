@@ -2,10 +2,10 @@
     flex: .8;
     background-color:#f9f9f9;
     padding: 40px 20px;
-    padding-bottom: 0;
+    padding-bottom: 1;
 }  
 .recommendedvideos>h2{
-    margin-left:5px ;
+    margin-left:6px ;
     margin-bottom: 20px;
 }
 .recommendedvideos_videos{

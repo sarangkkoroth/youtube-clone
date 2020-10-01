@@ -6,7 +6,7 @@
     position: sticky;
     top:0;
     z-index: 100;
-    background-color: white;
+    background-color: #fafafa;
 
 }
 .header_logo{
@@ -19,13 +19,13 @@
     display: flex;
     align-items: center;
     width: 40%;
-    border:1px solid lightgray;
+    border:1px solid tgray;
     
 }
 .header_icon{
     display: flex;
     align-items: center;
-    margin-right: 8px;
+    margin-right: 9px;
 }
 .header_input > input {
     flex: 1;
@@ -33,7 +33,7 @@
 }
 .header_inputButton{
     width: 50px !important;
-    background-color: #fafafa ;
+    background-color: white ;
     border-left: 1px solid lightgrey;
     color: gray;
 }

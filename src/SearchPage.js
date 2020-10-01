@@ -16,7 +16,7 @@ function SearchPage() {
             <hr/>
             <VideoRow
         title="FilterCopy | Every Family Video Call | Ft. Veer Rajwant, Eisha Chopra, Renuka Shahane & Shishir" 
-        views="367k Views"
+        views="3617k Views"
         timestamp="2 days ago" 
         description="abc"
        channel="FilterCopy "

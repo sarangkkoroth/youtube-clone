@@ -14,14 +14,14 @@
 .sidebarrow_title {
     flex:1;
     margin-left :20px;
-    font-size: 12px;
+    font-size: 13px;
     font-weight: 500;
 }
 .sidebarrow:hover> .sidebarrow_icon{
     color: red;
 }
 .sidebarrow.selected{
-    background-color: lightgray;
+    background-color: gray;
 
 }
 .sidebarrow.selected> .sidebarrow_icon{
