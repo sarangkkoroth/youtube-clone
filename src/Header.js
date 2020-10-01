@@ -11,7 +11,7 @@ function Header() {
     const [inputSearch,setInputSearch]= useState('');
     return (
         <div className="header">
-        <div className="header_left">
+        <div className="header_leeft">
            
              <MenuIcon />
              <Link to ="/">

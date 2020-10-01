@@ -7,11 +7,11 @@ function RecommendedVideos() {
             <h2>Recommended</h2>
             <div className="recommendedvideos_videos">
                 <VideoCard
-                title="how to make thumnails" 
+                title="how make thumnails" 
                 views="1.3M Views"
-                timestamp="4 days ago" 
+                timestamp="41 days ago" 
                 channelImage=""
-               channel="Sarang Koroth"
+               channel="Sarang"
                 image="https://i.ytimg.com/an_webp/Oo4ziTddOxs/mqdefault_6s.webp?du=3000&sqp=CJzcqPoF&rs=AOn4CLDZ1dIr6aPrqEuoJ0XYvsFzSqHBDQ"
                 />
                 <VideoCard
@@ -25,16 +25,16 @@ function RecommendedVideos() {
                 <VideoCard
                 title="Star Magic (Tamaar Padaar - 2) Flowers | EP#165"
 
-                views="483K views"
-                timestamp="2 days ago" 
+                views="4843K views"
+                timestamp="24 days ago" 
                 channelImage=""
                channel="Flowers Comedy"
                 image="https://i.ytimg.com/an_webp/61Ut3ZSPWCY/mqdefault_6s.webp?du=3000&sqp=CIKLqfoF&rs=AOn4CLAUyQF_RFO3m4XhgNoltXuNbOTa4A"
                 />
                 <VideoCard
                 title="FilterCopy | Every Family Video Call | Ft. Veer Rajwant, Eisha Chopra, Renuka Shahane & Shishir" 
-                views="367k Views"
-                timestamp="2 days ago" 
+                views="1367k Views"
+                timestamp="21 days ago" 
                 channelImage=""
                channel="FilterCopy "
                 image="https://i.ytimg.com/an_webp/A_taMibtou4/mqdefault_6s.webp?du=3000&sqp=CMCGqfoF&rs=AOn4CLCaGOvE4Nbi-GcSjsn39xVGqMLBRQ"
@@ -42,8 +42,8 @@ function RecommendedVideos() {
                 <VideoCard
                 title="Why Stackoverflow Sucks (A Rant on Elitism in Coding)
                 " 
-                views="2M Views"
-                timestamp="6 days ago" 
+                views="21M Views"
+                timestamp="61 days ago" 
                 channelImage=""
                channel="Clever Programmer"
                 image="https://i.ytimg.com/an_webp/RPbynQsdl24/mqdefault_6s.webp?du=3000&sqp=CKKBqfoF&rs=AOn4CLBF8vjXeo-px3T7d6gx1BdLUHtftQ"

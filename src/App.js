@@ -19,7 +19,8 @@ function App() {
            </div>
             </Route>
             <Route path="/">
-            <div className="app_page">        
+            <div className="app_page"> 
+            <Header/>       
              <Sidebar/>  
              <RecommendedVideos/>
            </div>
